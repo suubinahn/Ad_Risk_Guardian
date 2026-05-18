@@ -1,6 +1,16 @@
 ## 👩‍💻 담당 역할 (My Contribution)
 
-본 프로젝트는 팀 프로젝트로 진행되었으며, 저는 **NLP 기반 과장 광고 판별 파트**를 담당했습니다. 
+본 프로젝트는 6인 팀 프로젝트로 진행되었으며, 저는 **NLP 기반 과장 광고 판별 파트**를 담당했습니다.
+<img width="5333" height="3000" alt="fddae3cc4f474cb2b5e5c3b189dda5862ZX6NXiVCZhccCkd-0" src="https://github.com/user-attachments/assets/815bd648-1362-430c-92fb-aa705f145a0e" />
+<img width="5333" height="3000" alt="fddae3cc4f474cb2b5e5c3b189dda5862ZX6NXiVCZhccCkd-1" src="https://github.com/user-attachments/assets/9a1c2278-4100-47c0-a593-c0741e802f62" />
+<img width="5333" height="3000" alt="fddae3cc4f474cb2b5e5c3b189dda5862ZX6NXiVCZhccCkd-2" src="https://github.com/user-attachments/assets/e3194202-f47e-49c7-b0c7-6581bbe85f2c" />
+<img width="5333" height="3000" alt="fddae3cc4f474cb2b5e5c3b189dda5862ZX6NXiVCZhccCkd-3" src="https://github.com/user-attachments/assets/6040ce8b-970f-4ec7-baa1-3c9313efe536" />
+<img width="5333" height="3000" alt="fddae3cc4f474cb2b5e5c3b189dda5862ZX6NXiVCZhccCkd-4" src="https://github.com/user-attachments/assets/7cac27ea-41c4-411e-aced-cacbadccb1d1" />
+<img width="5333" height="3000" alt="fddae3cc4f474cb2b5e5c3b189dda5862ZX6NXiVCZhccCkd-5" src="https://github.com/user-attachments/assets/fb375c51-0b13-4724-b720-a9340e39bc2c" />
+<img width="5333" height="3000" alt="fddae3cc4f474cb2b5e5c3b189dda5862ZX6NXiVCZhccCkd-6" src="https://github.com/user-attachments/assets/a14b84b2-aa15-4511-a80f-82ac6803010d" />
+<img width="5333" height="3000" alt="fddae3cc4f474cb2b5e5c3b189dda5862ZX6NXiVCZhccCkd-7" src="https://github.com/user-attachments/assets/e326a9ae-0df0-455f-b4d4-42ee77aaf192" />
+<img width="5333" height="3000" alt="fddae3cc4f474cb2b5e5c3b189dda5862ZX6NXiVCZhccCkd-8" src="https://github.com/user-attachments/assets/b2b5f01c-b705-4771-9d93-b421ddde3b71" />
+<img width="5333" height="3000" alt="fddae3cc4f474cb2b5e5c3b189dda5862ZX6NXiVCZhccCkd-9" src="https://github.com/user-attachments/assets/959709f3-4ff1-4f34-9688-a36abd178a94" />
 
 코드 경로 : **pipeline/text**
 
